@@ -11,7 +11,7 @@ Com o foco no varejo online, temos como proposta trazer para empresas a identifi
 através da inteligência artificial.
 
 ### link do vídeo 
-https://youtu.be/d6w-bvulzuM
+https://youtu.be/L5pe0pqfcE8
 
 
 ### link dataset
