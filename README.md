@@ -10,7 +10,7 @@ Com o foco no varejo online, temos como proposta trazer para empresas a identifi
 
 
 ### link do vídeo sprint4
-
+https://youtu.be/M2TUEZVQMYk
 
 
 ### link dataset
