@@ -5,7 +5,7 @@ import pickle
 app = Flask(__name__)
 
 # Aqui estamos carregando o modelo já treinado que está no arquivo JobLib
-with open('C:/Users/HP/Desktop/fiap/ai2024/sprint3/MAI/meu_modelo_serializado.pickle', 'rb') as f:
+with open('C:/Users/HP/Desktop/fiap/ai2024/sprint4/MAI/meu_modelo_serializado.pickle', 'rb') as f:
     modelo = pickle.load(f)
 
 # Rota para receber os dados e fazer previsões
